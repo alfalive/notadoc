@@ -1,5 +1,5 @@
 # notadoc
-__Ready to go environment for writing Thesis, Report, Article using asciidoctor + asciidoctor-pdf__
+__Ready to go environment for writing Thesis, Report, Article using what???????
 
 Long term goal: dedicated out of the box editor with best user experience in writing Thesis, Report, Article
 Short term goal: notadoc-installer
