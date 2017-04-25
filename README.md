@@ -1,6 +1,8 @@
 # notadoc
 __Ready to go environment for writing Thesis, Report, Article using what???????
 
+[![asciicast](https://asciinema.org/a/8fwdxbrn4k4ip6tros3o08u4y.png)](https://asciinema.org/a/8fwdxbrn4k4ip6tros3o08u4y)
+
 Long term goal: dedicated out of the box editor with best user experience in writing Thesis, Report, Article
 Short term goal: notadoc-installer
 
